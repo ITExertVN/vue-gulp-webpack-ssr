@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- use triple mustache for non-HTML-escaped interpolation -->
+  {{{ meta }}}
+  <!-- use double mustache for HTML-escaped interpolation -->
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="dist/bundle.css">
+</head>
+<body>
+<!--vue-ssr-outlet-->
+<script src="dist/bundle.js"></script>
+</body>
+</html>
