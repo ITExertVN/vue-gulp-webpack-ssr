@@ -1,4 +1,4 @@
-# vue-ssr
+# vue-gulp-webpack-ssr
 
 > server side render for vuejs
 

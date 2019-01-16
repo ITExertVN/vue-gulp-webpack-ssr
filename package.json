@@ -2,7 +2,7 @@
   "name": "vue-ssr",
   "description": "server side render for vuejs",
   "version": "1.0.0",
-  "author": "Dinh Thuc Nguyen <thuc_nd@septeni-technology.jp>",
+  "author": "Dinh Thuc Nguyen <dinhthuc1303@hotmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
